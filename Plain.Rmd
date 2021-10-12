@@ -1,0 +1,39 @@
+---
+title: "Example Portfolio"
+author: "Carole Voulgaris"
+date: "10/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Maps of Boston
+[![Click for full-size image](work/wk3_plot7.jpg)](https://c-voulgaris.github.io/portfolio_examples/work/wk3_plot.jpg){target="_blank"}
+
+## Interactive Map
+
+
+## Clockboard Map
+
+# Maps of San Luis Obispo
+
+## Isochrones
+
+## Accessibility
+
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

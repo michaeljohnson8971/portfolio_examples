@@ -1,0 +1,14 @@
+---
+title: "Portfolio Examples"
+author: "Carole Voulgaris"
+date: "10/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Portfolio Examples
+
+The purpose of this site is to demonstrate an approach to creating an online portfolio for VIS 2128.
