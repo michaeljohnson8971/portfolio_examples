@@ -10,12 +10,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Maps of Boston
-[![Click for full-size image](work/wk3_plot7.jpg)](https://c-voulgaris.github.io/portfolio_examples/work/wk3_plot.jpg){target="_blank"}
+
 
 ## Interactive Map
 
 
 ## Clockboard Map
+[![Click for full-size image](work/wk3_plot7.jpg)](https://c-voulgaris.github.io/portfolio_examples/work/wk3_plot.jpg){target="_blank"}
 
 # Maps of San Luis Obispo
 
