@@ -9,6 +9,21 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Portfolio requirements
+
+Your portfolio should be a public-facing webpage on the real internet that includes at least five maps you've created which demonstrate each of the following skills:
+
+* Displaying multiple vector layers on the same map
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Aggregating point data to a layer of polygons
+* Calculating and displaying accessibility, based on travel time
+* Converting between raster layers and vector layers
+* Displaying raster data on a map
+* Georeferencing a raster image
+* Displaying data on an interactive map
+
+There does not need to be a one-to-one correspondence between maps and skills. One map may demonstrate multiple skills, and the same skill might be illustrated in multiple maps.
+
 ## Portfolio Examples
 
 The purpose of this site is to demonstrate an approach to creating an online portfolio for VIS 2128 using RMarkdown.
@@ -30,3 +45,11 @@ Here are several sample portfolios with identical content that each use a differ
 [Material](https://c-voulgaris.github.io/portfolio_examples/material_TOC.html){target="_blank"}
 
 [Tufte](https://c-voulgaris.github.io/portfolio_examples/tufte.html){target="_blank"}
+
+## Resources
+
+You can access all the RMarkdown files used to create the above examples here: https://github.com/c-voulgaris/portfolio_examples
+
+I recommend cloning the repo to your own computer, then creating your own repo for your portfolio and copying any files from the example repository that you like and using those as a starting point. 
+
+You can find a video walking through that workflow here: [GitHub Pages Portfolio Tutorial](https://harvard.zoom.us/rec/share/U6MUEzV3YfS4jSveSH4wVIXXKhZ-WoNnC6HizJxg0_73F3_nJT-J6rRm6gaalwnr.aurUm3Be-av7ZQZ_?startTime=1634157977000){target="_blank"}
