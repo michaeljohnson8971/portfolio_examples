@@ -11,4 +11,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Portfolio Examples
 
-The purpose of this site is to demonstrate an approach to creating an online portfolio for VIS 2128.
+The purpose of this site is to demonstrate an approach to creating an online portfolio for VIS 2128 using RMarkdown.
+
+Here are several sample portfolios with identical content that each use a different RMarkdown theme.
+
+[Default](https://c-voulgaris.github.io/portfolio_examples/Plain.html){target="_blank"}
+
+[Default, but with a table of contents](https://c-voulgaris.github.io/portfolio_examples/Plain_TOC.html){target="_blank"}
+
+[Architect](https://c-voulgaris.github.io/portfolio_examples/architect.html){target="_blank"}
+
+[Cerulean](https://c-voulgaris.github.io/portfolio_examples/cerulean_TOC.html){target="_blank"}
+
+[Downcute](https://c-voulgaris.github.io/portfolio_examples/downcute_TOC.html){target="_blank"}
+
+[Journal](https://c-voulgaris.github.io/portfolio_examples/journal_TOC.html){target="_blank"}
+
+[Material](https://c-voulgaris.github.io/portfolio_examples/material_TOC.html){target="_blank"}
+
+[Tufte](https://c-voulgaris.github.io/portfolio_examples/tufte.html){target="_blank"}

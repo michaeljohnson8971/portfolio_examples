@@ -2,7 +2,11 @@
 title: "Example Portfolio"
 author: "Carole Voulgaris"
 date: "10/12/2021"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -11,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.
 
-This example uses the default theme, since I haven't specified a theme in the YAML header.
+This example uses the default theme, since I haven't specified a theme in the YAML header, but I have set up a floating table of contents.
 
 Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
 
