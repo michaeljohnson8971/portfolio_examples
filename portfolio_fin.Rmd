@@ -26,7 +26,7 @@ This interactive map demonstrates the following skills:
 
 [![](images/interactive_thumbnail.png)](https://michaeljohnson8971.github.io/portfolio_examples/web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
-## Clockboard Map
+## Clockboard Map test
 This map demonstrates the following skills:
 
 * Aggregating point data to a layer of polygons
