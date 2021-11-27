@@ -24,7 +24,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/Boston_interactive.png)](https://e/inter_black.html){target="_blank"}
+[![](images/interactive_thumbnail.png)](https://e/inter_black.html){target="_blank"}
 
 ## Clockboard Map
 This map demonstrates the following skills:
