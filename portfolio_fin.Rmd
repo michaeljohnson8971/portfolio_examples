@@ -24,7 +24,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](images/interactive_thumbnail.png)](https://e/inter_black.html){target="_blank"}
+[![](images/interactive_thumbnail.png)](https://michaeljohnson8971.github.io/portfolio_examples/web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
 ## Clockboard Map
 This map demonstrates the following skills:
