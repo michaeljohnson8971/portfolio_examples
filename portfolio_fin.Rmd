@@ -20,9 +20,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Here are two maps of Boston. I might include some text here about this set of maps.
 
 ## Interactive Map
-This interactive map demonstrates the following skills: 
-
-* Displaying data on an interactive map
+This interactive map shows the percentage of households countywide with children as a poprotion of the total count of households in Suffolk county. 
+* demonstrates the following skills: Displaying data on an interactive map
 
 [![](images/interactive_thumbnail.png)](https://michaeljohnson8971.github.io/portfolio_examples/web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
