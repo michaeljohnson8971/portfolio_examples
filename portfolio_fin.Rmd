@@ -25,14 +25,15 @@ This interactive map shows the percentage of households countywide with children
 
 [![](images/interactive_thumbnail.png)](https://michaeljohnson8971.github.io/portfolio_examples/web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
-## Clockboard Map test
-This map demonstrates the following skills:
+## Zonal Aggregation Map
+Map#1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school. 
+* demonstrates the following skills: Calculating and displaying relationships among point and polygon layers based on distance
 
-* Aggregating point data to a layer of polygons
+###Map Boston Tree and Schools
+Map#2 shows the count of schools per community area in Boston
+[![](images/school_concentration.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/clockboard.pdf){target="_blank"}
 
-[![](thumbnails/clockboard.jpg)](https://c-voulgaris.github.io/portfolio_examples/fullsize/clockboard.pdf){target="_blank"}
-
-# Maps of San Luis Obispo
+### Maps of San Luis Obispo
 Here are two maps of San Luis Obispo, California. I might include some text here as well.
 
 ## Isochrones
