@@ -1,9 +1,11 @@
 ---
 title: "Johnson_MJ_Portfolio"
-author: "Group Project"
+author: "MJ Johnson"
 date: "11/27/2021"
 output:
 html_document:
+   html_document:
+    theme: cerulean
     toc: true
     toc_depth: 3
     toc_float: true
@@ -20,18 +22,18 @@ knitr::opts_chunk$set(echo = TRUE)
 Here are two maps of Boston. I might include some text here about this set of maps.
 
 ## Interactive Map
-This interactive map shows the percentage of households countywide with children as a proportion of the total count of households in Suffolk county. 
+This interactive map shows the percentage of households countywide with children as a proportion of the total count of households in Suffolk county:
 * demonstrates the following skills: Displaying data on an interactive map
 
 [![](images/interactive_thumbnail.png)](web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
-## Zonal Aggregation Map
-###Map #1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school. 
+# Zonal Aggregation Map
+##Map #1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school: 
 * demonstrates the following skills: Calculating and displaying relationships among point and polygon layers based on distance
 [![](images/tree_cover_school.png)](PDF/tree_cover_school.pdf){target="_blank"}
 
-###Map #2 Boston Tree and Schools
-Map#2 shows the count of schools per community area in Boston
+##Map #2 Boston Tree and Schools
+Map#2 shows the count of schools per community area in Boston:
 *demonstrates aggregating points to a polygon
 [![](images/school_concentration.png)](https://github.com/michaeljohnson8971/portfolio_examples/blob/main/images/school_concentration.png){target="_blank"}
 
@@ -42,10 +44,10 @@ This map shows accessibility based on a distance-decay function of the walking t
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 
-[![](images/Chicago_transit.png)](https://cO_transit.pdf){target="_blank"}
+[![](images/Chicago_transit.png)](https://michaeljohnson8971.github.io/portfolio_examples/PDF/chicago_transit.pdf){target="_blank"}
 
 ## Maps of East Boston
-Here is a  historical map of East Boston with current boundaries and highway overlaid.
+Here is a  historical map of East Boston with current boundaries and highway overlaid:
 * Geo-referencing a raster image
 
 [![](images/Map_clean_MJ.jpg)](https://michaeljohnson8971.github.io/portfolio_examples/PDF/Map.pdf){target="_blank"}
