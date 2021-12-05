@@ -48,6 +48,6 @@ This map shows accessibility based on a distance-decay function of the walking t
 Here is a  historical map of East Boston with current boundaries and highway overlaid.
 * Geo-referencing a raster image
 
-[![](images/Map_clean_MJ.jpg)](https://c-x_schools.pdf){target="_blank"}
+[![](images/Map_clean_MJ.jpg)](https://michaeljohnson8971.github.io/portfolio_examples/PDF/Map.pdf){target="_blank"}
 
 
