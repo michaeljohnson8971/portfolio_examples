@@ -1,55 +1,58 @@
 ---
-title: "Portfolio Examples"
-author: "Carole Voulgaris"
-date: "10/12/2021"
-output: html_document
+title: "Johnson_MJ_Portfolio"
+author: "Group Project"
+date: "11/27/2021"
+output:
+html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
 
-## Portfolio requirements
+```
 
-Your portfolio should be a public-facing webpage on the real internet that includes at least five maps you've created which demonstrate each of the following skills:
+# Maps of Boston
+Here are two maps of Boston. I might include some text here about this set of maps.
+
+## Interactive Map
+This interactive map shows the percentage of households countywide with children as a proportion of the total count of households in Suffolk county. 
+* demonstrates the following skills: Displaying data on an interactive map
+
+[![](images/interactive_thumbnail.png)](web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
+
+## Zonal Aggregation Map
+###Map #1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school. 
+* demonstrates the following skills: Calculating and displaying relationships among point and polygon layers based on distance
+[![](images/tree_cover_school.png)](PDF/tree_cover_school.pdf){target="_blank"}
+
+###Map #2 Boston Tree and Schools
+Map#2 shows the count of schools per community area in Boston
+*demonstrates aggregating points to a polygon
+[![](images/school_concentration.png)](https://github.com/michaeljohnson8971/portfolio_examples/blob/main/images/school_concentration.png){target="_blank"}
+
+## Accessibility
+This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
 
 * Displaying multiple vector layers on the same map
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Aggregating point data to a layer of polygons
 * Calculating and displaying accessibility, based on travel time
-* Converting between raster layers and vector layers
 * Displaying raster data on a map
-* Georeferencing a raster image
-* Displaying data on an interactive map
 
-There does not need to be a one-to-one correspondence between maps and skills. One map may demonstrate multiple skills, and the same skill might be illustrated in multiple maps.
+[![](thumbnails/SLO_raster.png)](https://cO_transit.pdf){target="_blank"}
 
-## Portfolio Examples
+## Maps of San Luis Obispo
+Here are two maps of San Luis Obispo, California. I might include some text here as well.
 
-The purpose of this site is to demonstrate an approach to creating an online portfolio for VIS 2128 using RMarkdown.
+## Isochrones
+This map shows isochrones based on transit travel times to the nearest school. It demonstrates the following skills:
 
-Here are several sample portfolios with identical content that each use a different RMarkdown theme.
+* Displaying multiple vector layers on the same map
+* Calculating and displaying accessibility, based on travel time
 
-[Default](https://c-voulgaris.github.io/portfolio_examples/Plain.html){target="_blank"}
+[![](thumbnails/SLO_isochrone.png)](https://c-x_schools.pdf){target="_blank"}
 
-[Default, but with a table of contents](https://c-voulgaris.github.io/portfolio_examples/Plain_TOC.html){target="_blank"}
 
-[Architect](https://c-voulgaris.github.io/portfolio_examples/architect.html){target="_blank"}
-
-[Cerulean](https://c-voulgaris.github.io/portfolio_examples/cerulean_TOC.html){target="_blank"}
-
-[Downcute](https://c-voulgaris.github.io/portfolio_examples/downcute_TOC.html){target="_blank"}
-
-[Journal](https://c-voulgaris.github.io/portfolio_examples/journal_TOC.html){target="_blank"}
-
-[Material](https://c-voulgaris.github.io/portfolio_examples/material_TOC.html){target="_blank"}
-
-[Tufte](https://c-voulgaris.github.io/portfolio_examples/tufte.html){target="_blank"}
-
-## Resources
-
-You can access all the RMarkdown files used to create the above examples here: https://github.com/c-voulgaris/portfolio_examples
-
-I recommend cloning the repo to your own computer, then creating your own repo for your portfolio and copying any files from the example repository that you like and using those as a starting point. 
-
-You can find a video walking through that workflow here: [GitHub Pages Portfolio Tutorial](https://harvard.zoom.us/rec/share/U6MUEzV3YfS4jSveSH4wVIXXKhZ-WoNnC6HizJxg0_73F3_nJT-J6rRm6gaalwnr.aurUm3Be-av7ZQZ_?startTime=1634157977000){target="_blank"}
