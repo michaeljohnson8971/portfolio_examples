@@ -28,6 +28,7 @@ This interactive map shows the percentage of households countywide with children
 ## Zonal Aggregation Map
 ###Map #1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school. 
 * demonstrates the following skills: Calculating and displaying relationships among point and polygon layers based on distance
+[![](images/tree_cover_school.png)](PDF/tree_cover_school.pdf){target="_blank"}
 
 ###Map #2 Boston Tree and Schools
 Map#2 shows the count of schools per community area in Boston
