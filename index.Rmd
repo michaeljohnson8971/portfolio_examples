@@ -1,6 +1,6 @@
 ---
 title: "Johnson_MJ_Portfolio"
-author: "Group Project"
+author: "GMJ Johnson"
 date: "11/27/2021"
 output:
 html_document:
