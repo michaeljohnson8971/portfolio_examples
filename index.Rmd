@@ -28,18 +28,19 @@ This interactive map shows the percentage of households countywide with children
 
 [![](images/interactive_thumbnail.png)](web_resources/interactivemap_Suffolk_families_children.html){target="_blank"}
 
-#Zonal Aggregation Map
+# Zonal Aggregation Map
 
-##Map #1  shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school: 
+### Map #1 Tree within 500 meter of Schools.
+Shows the trees within 500 meters of schools across the city of Boston. It also notes the percentage of total trees within 500 meters of all school.: 
 
 * demonstrates the following skills: Calculating and displaying relationships among point and polygon layers based on distance
 
 [![](images/tree_cover_school.png)](PDF/tree_cover_school.pdf){target="_blank"}
 
-##Map #2 Boston Tree and Schools
+### Map #2 Boston Tree and Schools
 This map shows the count of schools per community area in Boston:
 
-*demonstrates aggregating points to a polygon
+* demonstrates aggregating points to a polygon
 
 [![](images/school_concentration.png)](https://github.com/michaeljohnson8971/portfolio_examples/blob/main/images/school_concentration.png){target="_blank"}
 
